@@ -1,0 +1,11 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\user\Desktop\Rajorshi Barman\12v DC Adapter(LTspice)\12v DC adapter.asc
+Start Time: Wed Aug 14 00:23:49 2024
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.276 seconds.
+
